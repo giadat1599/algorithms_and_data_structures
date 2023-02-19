@@ -17,3 +17,13 @@
 "aba" => true
 "abc" => false
 ```
+
+3. **Integer Reversal**
+
+   Given an integer, return an integer that is the reversed ordering of numbers
+
+```
+1234 => 4321
+500 => 5
+-500 => -5
+```
